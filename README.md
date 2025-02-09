@@ -36,7 +36,9 @@
 - No parameters
 
 **Example Usage:**
-`curl http://127.0.0.1:8000/api/user/`
+```
+curl http://127.0.0.1:8000/api/user/
+```
 
 **Response example:**
 ```
@@ -47,5 +49,5 @@
 }
 ```
 
-## Learn more on HNG python developers :point_down:
+***Learn more on HNG python developers*** :point_down:
 - [HNG Python Developers](https://hng.tech/hire/python-developers)
