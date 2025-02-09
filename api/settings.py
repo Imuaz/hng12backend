@@ -77,7 +77,7 @@ STATIC_ROOT = BASE_DIR/'staticfiles'
 
 # Corse allow origin
 CORS_ALLOWED_ORIGINS = [
-    'http://localhost:5173', 'https://localhost:5173'
+    'http://localhost:8000', 'https://localhost:8000'
 ]
 
 # Database
