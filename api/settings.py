@@ -72,7 +72,7 @@ TEMPLATES = [
 WSGI_APPLICATION = 'api.wsgi.application'
 
 # For static root folder
-STATIC_ROOt = BASE_DIR/'staticfiles'
+STATIC_ROOT = BASE_DIR/'staticfiles'
 # Database
 # https://docs.djangoproject.com/en/5.1/ref/settings/#databases
 
