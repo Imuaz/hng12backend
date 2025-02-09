@@ -74,6 +74,12 @@ WSGI_APPLICATION = 'api.wsgi.application'
 
 # For static root folder
 STATIC_ROOT = BASE_DIR/'staticfiles'
+
+# Corse allow origin
+CORS_ALLOWED_ORIGINS = [
+    'http://localhost:5173'
+]
+
 # Database
 # https://docs.djangoproject.com/en/5.1/ref/settings/#databases
 
