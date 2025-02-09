@@ -11,7 +11,7 @@ class UserView(generics.RetrieveAPIView):
         Return the first user object or create one if it doesn't exist
         """
         obj, created = User.objects.get_or_create(
-            email="imuzyakub@gmail.com",
+            email="imuazyakub@gmail.com",
             github_url="https://github.com/imuaz/hng12backend"
 
         )
