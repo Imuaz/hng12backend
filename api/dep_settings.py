@@ -22,7 +22,7 @@ MIDDLEWARE = [
 ]
 
 CORS_ALLOWED_ORIGINS = [
-    ''
+    'https://hng12backend-tezi.onrender.com'
 ]
 
 STORAGES = {
