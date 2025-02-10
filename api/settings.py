@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'corsheaders',
     'basic_api',
+    'num_classification',
 ]
 
 MIDDLEWARE = [
